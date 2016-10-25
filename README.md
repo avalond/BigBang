@@ -6,6 +6,13 @@
 __由于服务是我自己搭建的，服务器性能有限，如果长时间没有显示出来可能是服务挂了，接口仅用于演示，请大家不要用在其他地方，不要高频的请求，谢谢。__
 
 <img src="https://github.com/baoyongzhang/BigBang/blob/master/design/bigbang_demo.gif" width=320/>
+<img src="https://github.com/baoyongzhang/BigBang/blob/master/design/gitbang_demo_wechat.gif" width=320/>
+
+### 微信支持
+
+现在支持在微信中使用 BigBang，提供两种方案。
+* 免 root 方案：需要在系统设置中开启权限，目前仅支持聊天气泡文字，点击文字就可以打开 BigBang 页面。
+* Xposed 方案：需要安装 Xposed 框架，在 Xposed 中可以找到 BigBang 模块，目前支持聊天气泡文字和朋友全文字，点击两下触发。
 
 # Contributors
 
